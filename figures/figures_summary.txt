@@ -1,0 +1,258 @@
+#### figure_methods_injected_currents_exc_inh.png ####
+runnumbers: [81]
+{'l2': 0}
+
+#### figure_methods_injected_currents_frequency_ppc.png ####
+runnumbers: [81]
+{'l2': 0}
+
+#### figure_appendix_low_ppc_spiketrains.png ####
+runnumbers: [52]
+{'l1': 2, 'l2': 1, 'region': 1, 'start': 0, 'stop': 600, 'ppc_value': 0.025470321139507496}
+
+#### figure_appendix_high_ppc_spiketrains.png ####
+runnumbers: [52]
+{'l1': 25, 'l2': 1, 'region': 1, 'start': 0, 'stop': 600, 'ppc_value': 0.36980021561288129}
+
+#### figure_methods_high_ppc_histogram.png ####
+runnumbers: [52]
+{'l1': 25, 'l2': 1, 'region': 1, 'start': 0, 'stop': 600, 'ppc_value': 0.36980021561288129}
+
+#### figure_methods_coherence_slepian_sequences.png ####
+{'T': 1000, 'TW': 30}
+
+#### figure_problems_noise_brown.png ####
+{'noise_type': 'Brown', 'source': 'FigureMethodsNoiseExamples.m'}
+
+#### figure_problems_noise_white_correlation_histogram.png ####
+{'noise_type': 'white', 'samples': 100000, 'correlation_threshold': 0.05, 'below_threshold': 1.0, 'correlation_source': 'FigureMethodsNoiseCorrelations.m'}
+
+#### figure_problems_noise_pink_correlation_histogram.png ####
+{'noise_type': 'pink', 'samples': 100000, 'correlation_threshold': 0.05, 'below_threshold': 0.96379999999999999, 'correlation_source': 'FigureMethodsNoiseCorrelations.m'}
+
+#### figure_problems_noise_brown_correlation_histogram.png ####
+{'noise_type': 'brown', 'samples': 100000, 'correlation_threshold': 0.05, 'below_threshold': 0.15976000000000001, 'correlation_source': 'FigureMethodsNoiseCorrelations.m'}
+
+#### figure_problems_noise_to_region1_correlation.png ####
+{'region_to': 1, 'noise_types': {'brown10': {'runnumbers': [117, 118, 122], 'title': 'Strong Brown noise', 'color': '#572b0c', 'style': '-', 'correlation_mean': 0.9421161339810826}, 'brown05': {'runnumbers': [140, 134, 141], 'title': 'Weak Brown noise', 'color': '#9c4e15', 'style': '--', 'correlation_mean': 0.9456198878454524}, 'pink': {'runnumbers': [112, 115, 114], 'title': 'Pink noise', 'color': '#FF1493', 'style': '-.', 'correlation_mean': 0.5071533612097373}, 'white': {'runnumbers': [123, 156, 157], 'title': 'White noise', 'color': '#808080', 'style': ':', 'correlation_mean': 0.10185098109551623}}}
+
+#### figure_problems_noise_to_region2_correlation.png ####
+{'region_to': 2, 'noise_types': {'brown10': {'runnumbers': [117, 118, 122], 'title': 'Strong Brown noise', 'color': '#572b0c', 'style': '-', 'correlation_mean': 0.2117125749831028}, 'brown05': {'runnumbers': [140, 134, 141], 'title': 'Weak Brown noise', 'color': '#9c4e15', 'style': '--', 'correlation_mean': 0.27992799353402276}, 'pink': {'runnumbers': [112, 115, 114], 'title': 'Pink noise', 'color': '#FF1493', 'style': '-.', 'correlation_mean': 0.2935126465427007}, 'white': {'runnumbers': [123, 156, 157], 'title': 'White noise', 'color': '#808080', 'style': ':', 'correlation_mean': 0.08613380600097748}}}
+
+#### figure_problems_shifting_window_noise_signal.png ####
+runnumbers: [134]
+{'l1': 30, 'l2': 10, 'run_frequency': 54.0541, 'data_source': './mat/noise_sigfreq_sigfper_example.mat'}
+
+#### figure_results_lag_vs_correlation_lines_rhos_fper_noise1_reg1_140.png ####
+{'analysis_info2_name': 'rhos_fper_noise1_reg1', 'coherence_threshold': 0}
+
+#### figure_appendix_lag_vs_correlation_lines_rhos_fper_reg1_reg2_112.png ####
+{'analysis_info2_name': 'rhos_fper_reg1_reg2', 'coherence_threshold': 0.7}
+
+#### figure_results_coherence_heatmap_feedback_ee000_ei000.png ####
+runnumbers: [81, 107, 108]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0}
+
+#### figure_results_coherence_heatmap_feedback_ee000_ei025.png ####
+runnumbers: [127, 154]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001}
+
+#### figure_results_coherence_heatmap_feedback_ee000_ei050.png ####
+runnumbers: [106, 104, 152]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003}
+
+#### figure_results_coherence_heatmap_feedback_ee000_ei075.png ####
+runnumbers: [130, 151]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997}
+
+#### figure_results_coherence_heatmap_feedback_ee000_ei100.png ####
+runnumbers: [105, 155]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001}
+
+#### figure_results_frequency_vs_feedforward_conductance_run81_l110.png ####
+runnumbers: [81]
+{'l1': 10, 'i_inj_exc': 1.2, 'i_inj_inh': 0.81000000000000005, 'reg1_freq': 41.228773118623018, 'reg2_freq_start': 44.078948191409758, 'reg2_freq_end': 64.84689969903316}
+
+#### figure_results_frequency_vs_feedforward_conductance_run127_l110.png ####
+runnumbers: [127]
+{'l1': 10, 'i_inj_exc': 1.2, 'i_inj_inh': 0.81000000000000005, 'reg1_freq': 43.559885684011071, 'reg2_freq_start': 44.078948191409758, 'reg2_freq_end': 63.57539969558953}
+
+#### figure_results_frequency_vs_feedforward_conductance_run106_l110.png ####
+runnumbers: [106]
+{'l1': 10, 'i_inj_exc': 1.2, 'i_inj_inh': 0.81000000000000005, 'reg1_freq': 44.086829696083662, 'reg2_freq_start': 44.078948191409758, 'reg2_freq_end': 66.15435758557044}
+
+#### figure_results_frequency_vs_feedforward_conductance_run105_l110.png ####
+runnumbers: [105]
+{'l1': 10, 'i_inj_exc': 1.2, 'i_inj_inh': 0.81000000000000005, 'reg1_freq': 44.030925902654168, 'reg2_freq_start': 44.048242309736004, 'reg2_freq_end': 59.5155499320432}
+
+#### figure_results_frequency_vs_feedforward_conductance_run81_l119.png ####
+runnumbers: [81]
+{'l1': 19, 'i_inj_exc': 1.72, 'i_inj_inh': 1.1799999999999999, 'reg1_freq': 47.78185701198975, 'reg2_freq_start': 44.078948191409758, 'reg2_freq_end': 67.39445576346722}
+
+#### figure_results_frequency_vs_feedforward_conductance_run127_l119.png ####
+runnumbers: [127]
+{'l1': 19, 'i_inj_exc': 1.72, 'i_inj_inh': 1.1799999999999999, 'reg1_freq': 48.362742664029838, 'reg2_freq_start': 44.078948191409758, 'reg2_freq_end': 58.864307027278855}
+
+#### figure_results_frequency_vs_feedforward_conductance_run106_l119.png ####
+runnumbers: [106]
+{'l1': 19, 'i_inj_exc': 1.72, 'i_inj_inh': 1.1799999999999999, 'reg1_freq': 49.104025655124381, 'reg2_freq_start': 44.078948191409758, 'reg2_freq_end': 52.66162952324163}
+
+#### figure_results_frequency_vs_feedforward_conductance_run105_l119.png ####
+runnumbers: [105]
+{'l1': 19, 'i_inj_exc': 1.72, 'i_inj_inh': 1.1799999999999999, 'reg1_freq': 50.121218326315535, 'reg2_freq_start': 44.048242309736004, 'reg2_freq_end': 58.41740502659903}
+
+#### figure_results_correlation_feedback_violinplot_compare_rhos_fper_noise2_reg2_vs_rhos_freq_noise2_reg2.png ####
+runnumbers: [[140, 134], [141, 135], [142, 136], [132, 138], [133, 139]]
+
+#### figure_results_correlation_feedback_violinplot_compare_rhos_fper_noise2_reg1_vs_rhos_freq_noise2_reg1.png ####
+runnumbers: [[140, 134], [141, 135], [142, 136], [132, 138], [133, 139]]
+
+#### figure_results_correlation_feedback_violinplot_compare_rhos_fper_noise1_reg1_vs_rhos_freq_noise1_reg1.png ####
+runnumbers: [[140, 134], [141, 135], [142, 136], [132, 138], [133, 139]]
+
+#### figure_results_correlation_feedback_violinplot_compare_rhos_fper_noise1_reg2_vs_rhos_freq_noise1_reg2.png ####
+runnumbers: [[140, 134], [141, 135], [142, 136], [132, 138], [133, 139]]
+
+#### figure_results_correlation_feedback_violinplot_threshold_rhos_freq_noise1_reg2.png ####
+runnumbers: [[140, 134], [141, 135], [142, 136], [132, 138], [133, 139]]
+
+#### figure_results_correlation_heatmap_ee000_ei000_rhos_fper_noise1_reg2_coh000.png ####
+runnumbers: [140, 134]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0, 'analysis_info2_name': 'rhos_fper_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei025_rhos_fper_noise1_reg2_coh000.png ####
+runnumbers: [141, 135]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001, 'analysis_info2_name': 'rhos_fper_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei050_rhos_fper_noise1_reg2_coh000.png ####
+runnumbers: [142, 136]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003, 'analysis_info2_name': 'rhos_fper_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei075_rhos_fper_noise1_reg2_coh000.png ####
+runnumbers: [132, 138]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997, 'analysis_info2_name': 'rhos_fper_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei100_rhos_fper_noise1_reg2_coh000.png ####
+runnumbers: [133, 139]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001, 'analysis_info2_name': 'rhos_fper_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei000_rhos_freq_noise1_reg1_coh000.png ####
+runnumbers: [140, 134]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0, 'analysis_info2_name': 'rhos_freq_noise1_reg1', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei025_rhos_freq_noise1_reg1_coh000.png ####
+runnumbers: [141, 135]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001, 'analysis_info2_name': 'rhos_freq_noise1_reg1', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei050_rhos_freq_noise1_reg1_coh000.png ####
+runnumbers: [142, 136]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003, 'analysis_info2_name': 'rhos_freq_noise1_reg1', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei075_rhos_freq_noise1_reg1_coh000.png ####
+runnumbers: [132, 138]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997, 'analysis_info2_name': 'rhos_freq_noise1_reg1', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei100_rhos_freq_noise1_reg1_coh000.png ####
+runnumbers: [133, 139]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001, 'analysis_info2_name': 'rhos_freq_noise1_reg1', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei000_rhos_freq_noise1_reg2_coh000.png ####
+runnumbers: [140, 134]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0, 'analysis_info2_name': 'rhos_freq_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei025_rhos_freq_noise1_reg2_coh000.png ####
+runnumbers: [141, 135]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001, 'analysis_info2_name': 'rhos_freq_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei050_rhos_freq_noise1_reg2_coh000.png ####
+runnumbers: [142, 136]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003, 'analysis_info2_name': 'rhos_freq_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei075_rhos_freq_noise1_reg2_coh000.png ####
+runnumbers: [132, 138]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997, 'analysis_info2_name': 'rhos_freq_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_results_correlation_heatmap_ee000_ei100_rhos_freq_noise1_reg2_coh000.png ####
+runnumbers: [133, 139]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001, 'analysis_info2_name': 'rhos_freq_noise1_reg2', 'coherence_threshold': 0}
+
+#### figure_appendix_heatmap_avgmorfreq_reg0_ee000_ei000.png ####
+runnumbers: [81, 107, 108]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0}
+
+#### figure_appendix_heatmap_avgmorfreq_reg1_ee000_ei000.png ####
+runnumbers: [81, 107, 108]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0}
+
+#### figure_appendix_heatmap_avgmorfreq_reg0_ee000_ei025.png ####
+runnumbers: [127, 154]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001}
+
+#### figure_appendix_heatmap_avgmorfreq_reg1_ee000_ei025.png ####
+runnumbers: [127, 154]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001}
+
+#### figure_appendix_heatmap_avgmorfreq_reg0_ee000_ei050.png ####
+runnumbers: [106, 104, 152]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003}
+
+#### figure_appendix_heatmap_avgmorfreq_reg1_ee000_ei050.png ####
+runnumbers: [106, 104, 152]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003}
+
+#### figure_appendix_heatmap_avgmorfreq_reg0_ee000_ei075.png ####
+runnumbers: [130, 151]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997}
+
+#### figure_appendix_heatmap_avgmorfreq_reg1_ee000_ei075.png ####
+runnumbers: [130, 151]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997}
+
+#### figure_appendix_heatmap_avgmorfreq_reg0_ee000_ei100.png ####
+runnumbers: [105, 155]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001}
+
+#### figure_appendix_heatmap_avgmorfreq_reg1_ee000_ei100.png ####
+runnumbers: [105, 155]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001}
+
+#### figure_appendix_heatmap_phaselocke_reg0_ee000_ei000.png ####
+runnumbers: [81, 107, 108]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0}
+
+#### figure_appendix_heatmap_phaselocke_reg1_ee000_ei000.png ####
+runnumbers: [81, 107, 108]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0}
+
+#### figure_appendix_heatmap_phaselocke_reg0_ee000_ei025.png ####
+runnumbers: [127, 154]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001}
+
+#### figure_appendix_heatmap_phaselocke_reg1_ee000_ei025.png ####
+runnumbers: [127, 154]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.025000000000000001}
+
+#### figure_appendix_heatmap_phaselocke_reg0_ee000_ei050.png ####
+runnumbers: [106, 104, 152]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003}
+
+#### figure_appendix_heatmap_phaselocke_reg1_ee000_ei050.png ####
+runnumbers: [106, 104, 152]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.050000000000000003}
+
+#### figure_appendix_heatmap_phaselocke_reg0_ee000_ei075.png ####
+runnumbers: [130, 151]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997}
+
+#### figure_appendix_heatmap_phaselocke_reg1_ee000_ei075.png ####
+runnumbers: [130, 151]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.074999999999999997}
+
+#### figure_appendix_heatmap_phaselocke_reg0_ee000_ei100.png ####
+runnumbers: [105, 155]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001}
+
+#### figure_appendix_heatmap_phaselocke_reg1_ee000_ei100.png ####
+runnumbers: [105, 155]
+{'feedback_conductance_ee': 0, 'feedback_conductance_ei': 0.10000000000000001}
+

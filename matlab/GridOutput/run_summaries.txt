@@ -1,0 +1,2061 @@
+##### Category: default - Run with default settings #####
+#### Settings: Runs [81, 107, 108] with the same settings except seeds ####
+### Run 81 (run81): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 81}}
+  
+### Run 107 (run107): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 107, 'seed': 12}}
+  
+### Run 108 (run108): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 108, 'seed': 15}}
+  
+
+#### Settings: Runs [52] with the same settings except seeds ####
+### Run 52 (run52): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'g_syn_r_step': 0.01, 'runnumber': 52}}
+  
+##### Category: fixed_feedback_inhibitory - Runs only with feedback to inhibitory cells #####
+#### Settings: Runs [81, 107, 108] with the same settings except seeds ####
+### Run 81 (run81): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 81}}
+  
+### Run 107 (run107): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 107, 'seed': 12}}
+  
+### Run 108 (run108): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 108, 'seed': 15}}
+  
+
+#### Settings: Runs [127, 154] with the same settings except seeds ####
+### Run 127 (run127): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 127}}
+  
+### Run 154 (run154): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 154,
+          'seed': 15}}
+  
+
+#### Settings: Runs [106, 104, 152] with the same settings except seeds ####
+### Run 106 (run106): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 106}}
+  
+### Run 104 (run104): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 104,
+          'seed': 5}}
+  
+### Run 152 (run152): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 152,
+          'seed': 15}}
+  
+
+#### Settings: Runs [130, 151] with the same settings except seeds ####
+### Run 130 (run130): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 130}}
+  
+### Run 151 (run151): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 151,
+          'seed': 15}}
+  
+
+#### Settings: Runs [105, 155] with the same settings except seeds ####
+### Run 105 (run105): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'runnumber': 105,
+          'seed': 5}}
+  
+### Run 155 (run155): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'runnumber': 155,
+          'seed': 15}}
+  
+
+#### Settings: Runs [71] with the same settings except seeds ####
+### Run 71 (run71): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.14999999999999999], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 71}}
+  
+
+#### Settings: Runs [80] with the same settings except seeds ####
+### Run 80 (run80): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.20000000000000001], [0.0, 0.0]],
+          'runnumber': 80}}
+  
+
+#### Settings: Runs [70] with the same settings except seeds ####
+### Run 70 (run70): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 70}}
+  
+
+#### Settings: Runs [69] with the same settings except seeds ####
+### Run 69 (run69): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 69}}
+  
+
+#### Settings: Runs [68] with the same settings except seeds ####
+### Run 68 (run68): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 68}}
+  
+##### Category: fixed_feedback_excitatory_inhibitory - Runs with feedback to excitatory and inhibitory cells #####
+#### Settings: Runs [146] with the same settings except seeds ####
+### Run 146 (run146): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 146, 'seed': 26}}
+  
+
+#### Settings: Runs [149] with the same settings except seeds ####
+### Run 149 (run149): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ee_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 149,
+          'seed': 26}}
+  
+
+#### Settings: Runs [147] with the same settings except seeds ####
+### Run 147 (run147): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ee_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 147,
+          'seed': 26}}
+  
+
+#### Settings: Runs [150] with the same settings except seeds ####
+### Run 150 (run150): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ee_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 150,
+          'seed': 26}}
+  
+##### Category: information_brown_fixed_feedback_inhibitory - Noiseamp = 1: Runs concerned with information transfer with feedback to inhibitory cells. Using Brown noise! #####
+#### Settings: Runs [117, 125] with the same settings except seeds ####
+### Run 117 (run117): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 117,
+          'seed': 17}}
+  
+### Run 125 (run125): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 45,
+          'runnumber': 125,
+          'seed': 26}}
+  
+
+#### Settings: Runs [124] with the same settings except seeds ####
+### Run 124 (run124): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 124,
+          'seed': 17}}
+  
+
+#### Settings: Runs [118] with the same settings except seeds ####
+### Run 118 (run118): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 118,
+          'seed': 17}}
+  
+
+#### Settings: Runs [122] with the same settings except seeds ####
+### Run 122 (run122): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 122,
+          'seed': 17}}
+  
+##### Category: information_feedback_inhibitory_weak_brown_results_figures - Runnumbers used for results section of thesis, with noiseseed [46, 80] for each entry. Uses noiseamp=0.5 brownian noise and inhibitory feedback [0, 0.025, 0.05, 0.075, 0.1] #####
+#### Settings: Runs [140, 134] with the same settings except seeds ####
+### Run 140 (run140): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 46,
+          'runnumber': 140,
+          'seed': 27}}
+  
+### Run 134 (run134): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 80,
+          'runnumber': 134,
+          'seed': 61}}
+  
+
+#### Settings: Runs [141, 135] with the same settings except seeds ####
+### Run 141 (run141): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 141,
+          'seed': 27}}
+  
+### Run 135 (run135): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 135,
+          'seed': 61}}
+  
+
+#### Settings: Runs [142, 136] with the same settings except seeds ####
+### Run 142 (run142): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 142,
+          'seed': 27}}
+  
+### Run 136 (run136): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 136,
+          'seed': 61}}
+  
+
+#### Settings: Runs [132, 138] with the same settings except seeds ####
+### Run 132 (run132): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 132,
+          'seed': 27}}
+  
+### Run 138 (run138): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 138,
+          'seed': 61}}
+  
+
+#### Settings: Runs [133, 139] with the same settings except seeds ####
+### Run 133 (run133): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 133,
+          'seed': 27}}
+  
+### Run 139 (run139): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 139,
+          'seed': 61}}
+  
+##### Category: information_brown_fixed_feedback_inhibitory_noiseamp_low - Noiseamp = 0.5 - Runs concerned with information transfer with feedback to inhibitory cells. Using Brown noise! Caution: Run 95 has noiseamp = 0.5 #####
+#### Settings: Runs [140, 134, 95, 126] with the same settings except seeds ####
+### Run 140 (run140): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 46,
+          'runnumber': 140,
+          'seed': 27}}
+  
+### Run 134 (run134): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 80,
+          'runnumber': 134,
+          'seed': 61}}
+  
+### Run 95 (run95): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 24,
+          'runnumber': 95,
+          'seed': 5}}
+  
+### Run 126 (run126): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 45,
+          'runnumber': 126,
+          'seed': 26}}
+  
+
+#### Settings: Runs [141, 135, 128] with the same settings except seeds ####
+### Run 141 (run141): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 141,
+          'seed': 27}}
+  
+### Run 135 (run135): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 135,
+          'seed': 61}}
+  
+### Run 128 (run128): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 45,
+          'runnumber': 128,
+          'seed': 26}}
+  
+
+#### Settings: Runs [142, 136, 129] with the same settings except seeds ####
+### Run 142 (run142): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 142,
+          'seed': 27}}
+  
+### Run 136 (run136): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 136,
+          'seed': 61}}
+  
+### Run 129 (run129): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 45,
+          'runnumber': 129,
+          'seed': 26}}
+  
+
+#### Settings: Runs [132, 138] with the same settings except seeds ####
+### Run 132 (run132): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 132,
+          'seed': 27}}
+  
+### Run 138 (run138): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 138,
+          'seed': 61}}
+  
+
+#### Settings: Runs [133, 139] with the same settings except seeds ####
+### Run 133 (run133): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 133,
+          'seed': 27}}
+  
+### Run 139 (run139): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 139,
+          'seed': 61}}
+  
+##### Category: information_pink_fixed_feedback_inhibitory - Caution: Using Pink Noise! Runs concerned with information transfer with feedback to inhibitory cells #####
+#### Settings: Runs [112, 115] with the same settings except seeds ####
+### Run 112 (run112): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noisetype': 3,
+          'runnumber': 112}}
+  
+### Run 115 (run115): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 22,
+          'noisetype': 3,
+          'runnumber': 115,
+          'seed': 3}}
+  
+
+#### Settings: Runs [114] with the same settings except seeds ####
+### Run 114 (run114): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noisetype': 3,
+          'runnumber': 114}}
+  
+
+#### Settings: Runs [113] with the same settings except seeds ####
+### Run 113 (run113): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noisetype': 3,
+          'runnumber': 113}}
+  
+
+#### Settings: Runs [116] with the same settings except seeds ####
+### Run 116 (run116): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 22,
+          'noisetype': 3,
+          'runnumber': 116,
+          'seed': 3}}
+  
+##### Category: information_white_fixed_feedback_inhibitory - Caution: Using Pink Noise! Runs concerned with information transfer with feedback to inhibitory cells #####
+#### Settings: Runs [123] with the same settings except seeds ####
+### Run 123 (run123): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'noisetype': 1,
+          'runnumber': 123,
+          'seed': 17}}
+  
+##### Category: explore_delay - Runs to explore what happens when we introduce delay #####
+#### Settings: Runs [79] with the same settings except seeds ####
+### Run 79 (run79): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'delay_reg_e': 10,
+          'delay_reg_i': 10,
+          'runnumber': 79}}
+  
+##### Runs Uncategorized #####
+
+### Run 35 (run35): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'path': './Output/',
+          'runnumber': 35}}
+  
+### Run 36 (run36): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.20000000000000001], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.20000000000000001], [0.0, 0.0]],
+          'runnumber': 36}}
+  
+### Run 37 (run37): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.02], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.02], [0.0, 0.0]],
+          'runnumber': 37}}
+  
+### Run 38 (run38): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 38}}
+  
+### Run 43 (run43): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'runnumber': 43}}
+  
+### Run 44 (run44): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': 0,
+          'Ieper': 0,
+          'Iepulse': 0,
+          'Ieramp': 0,
+          'Iestep': 0,
+          'Iinoise': 0,
+          'Iiper': 0,
+          'Iipulse': 0,
+          'Iiramp': 0,
+          'Iistep': 0,
+          'Istep': 0,
+          'Nregions': 1,
+          'eIspecial': [0.5,
+                        0.68644067796610164,
+                        0.8728813559322034,
+                        1.0593220338983049,
+                        1.2457627118644068,
+                        1.4322033898305084,
+                        1.6186440677966101,
+                        1.8050847457627119,
+                        1.9915254237288136,
+                        2.1779661016949152,
+                        2.3644067796610169,
+                        2.5508474576271185,
+                        2.7372881355932202,
+                        2.9237288135593222,
+                        3.1101694915254239,
+                        3.2966101694915255,
+                        3.4830508474576272,
+                        3.6694915254237288,
+                        3.8559322033898304,
+                        4.0423728813559325,
+                        4.2288135593220337,
+                        4.4152542372881349,
+                        4.601694915254237,
+                        4.7881355932203391,
+                        4.9745762711864403,
+                        5.1610169491525424,
+                        5.3474576271186445,
+                        5.5338983050847457,
+                        5.7203389830508478,
+                        5.906779661016949,
+                        6.093220338983051,
+                        6.2796610169491522,
+                        6.4661016949152543,
+                        6.6525423728813555,
+                        6.8389830508474576,
+                        7.0254237288135597,
+                        7.2118644067796609,
+                        7.398305084745763,
+                        7.5847457627118642,
+                        7.7711864406779663,
+                        7.9576271186440675,
+                        8.1440677966101696,
+                        8.3305084745762699,
+                        8.5169491525423737,
+                        8.703389830508474,
+                        8.8898305084745761,
+                        9.0762711864406782,
+                        9.2627118644067803,
+                        9.4491525423728806,
+                        9.6355932203389827,
+                        9.8220338983050848,
+                        10.008474576271187,
+                        10.194915254237289,
+                        10.381355932203389,
+                        10.567796610169491,
+                        10.754237288135593,
+                        10.940677966101696,
+                        11.127118644067796,
+                        11.313559322033898,
+                        11.5],
+          'eIu': 0,
+          'eIu_max': 4,
+          'g_syn_loop': 0,
+          'iIspecial': [0.0,
+                        0.050847457627118647,
+                        0.10169491525423729,
+                        0.15254237288135594,
+                        0.20338983050847459,
+                        0.25423728813559321,
+                        0.30508474576271188,
+                        0.3559322033898305,
+                        0.40677966101694918,
+                        0.4576271186440678,
+                        0.50847457627118642,
+                        0.55932203389830504,
+                        0.61016949152542377,
+                        0.66101694915254239,
+                        0.71186440677966101,
+                        0.76271186440677963,
+                        0.81355932203389836,
+                        0.86440677966101698,
+                        0.9152542372881356,
+                        0.96610169491525422,
+                        1.0169491525423728,
+                        1.0677966101694916,
+                        1.1186440677966101,
+                        1.1694915254237288,
+                        1.2203389830508475,
+                        1.271186440677966,
+                        1.3220338983050848,
+                        1.3728813559322033,
+                        1.423728813559322,
+                        1.4745762711864407,
+                        1.5254237288135593,
+                        1.576271186440678,
+                        1.6271186440677967,
+                        1.6779661016949152,
+                        1.728813559322034,
+                        1.7796610169491525,
+                        1.8305084745762712,
+                        1.8813559322033899,
+                        1.9322033898305084,
+                        1.9830508474576272,
+                        2.0338983050847457,
+                        2.0847457627118646,
+                        2.1355932203389831,
+                        2.1864406779661016,
+                        2.2372881355932202,
+                        2.2881355932203391,
+                        2.3389830508474576,
+                        2.3898305084745761,
+                        2.4406779661016951,
+                        2.4915254237288136,
+                        2.5423728813559321,
+                        2.593220338983051,
+                        2.6440677966101696,
+                        2.6949152542372881,
+                        2.7457627118644066,
+                        2.7966101694915255,
+                        2.847457627118644,
+                        2.8983050847457625,
+                        2.9491525423728815,
+                        3.0],
+          'iIu': 0,
+          'iIu_max': 3,
+          'loopIe': 5,
+          'loopIi': 5,
+          'runnumber': 44}}
+  
+### Run 45 (run45): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': 0,
+          'Ieper': 0,
+          'Iepulse': 0,
+          'Ieramp': 0,
+          'Iestep': 0,
+          'Iinoise': 0,
+          'Iiper': 0,
+          'Iipulse': 0,
+          'Iiramp': 0,
+          'Iistep': 0,
+          'Istep': 0,
+          'Nregions': 1,
+          'eIspecial': [0.75460000000000005,
+                        0.70882751432428237,
+                        0.67853352986677551,
+                        0.66226346713611983,
+                        0.65863737912900344,
+                        0.66634995133016184,
+                        0.68417050171237781,
+                        0.71094298073648221,
+                        0.74558597135135296,
+                        0.78709268899391538,
+                        0.83453098158914307,
+                        0.88704332955005627,
+                        0.94384684577772338,
+                        1.00423327566126,
+                        1.067568997077829,
+                        1.1332950203926415,
+                        1.2009269884589562,
+                        1.2700551766180772,
+                        1.3403444926993591,
+                        1.4115344770202025,
+                        1.4834393023860559,
+                        1.5559477740904146,
+                        1.6290233299148218,
+                        1.7027040401288702,
+                        1.7771026074901948,
+                        1.8524063672444839,
+                        1.9288772871254722,
+                        2.0068519673549381,
+                        2.0867416406427108,
+                        2.1690321721866668,
+                        2.2542840596727287,
+                        2.3431324332748691,
+                        2.4362870556551059,
+                        2.5345323219635043,
+                        2.6387272598381775,
+                        2.7498055294052892,
+                        2.868775423279045,
+                        2.9967198665617043,
+                        3.1347964168435682,
+                        3.284237264202988,
+                        3.4463492312063653,
+                        3.622513772908146,
+                        3.814186976850817,
+                        4.0228995630649287,
+                        4.2502568840690635,
+                        4.4979389248698629,
+                        4.7677003029620071,
+                        5.0613702683282256,
+                        5.3808527034393006,
+                        5.7281261232540706,
+                        6.1052436752193771,
+                        6.5143331392701711,
+                        6.9575969278294147,
+                        7.4373120858081254,
+                        7.9558302906053502,
+                        8.5155778521082297,
+                        9.1190557126918961,
+                        9.7688394472195661,
+                        10.467579263042506,
+                        11.217999999999998],
+          'eIu': 0,
+          'eIu_max': 4,
+          'g_syn_loop': 0,
+          'iIspecial': [0.0,
+                        0.050847457627118647,
+                        0.10169491525423729,
+                        0.15254237288135594,
+                        0.20338983050847459,
+                        0.25423728813559321,
+                        0.30508474576271188,
+                        0.3559322033898305,
+                        0.40677966101694918,
+                        0.4576271186440678,
+                        0.50847457627118642,
+                        0.55932203389830504,
+                        0.61016949152542377,
+                        0.66101694915254239,
+                        0.71186440677966101,
+                        0.76271186440677963,
+                        0.81355932203389836,
+                        0.86440677966101698,
+                        0.9152542372881356,
+                        0.96610169491525422,
+                        1.0169491525423728,
+                        1.0677966101694916,
+                        1.1186440677966101,
+                        1.1694915254237288,
+                        1.2203389830508475,
+                        1.271186440677966,
+                        1.3220338983050848,
+                        1.3728813559322033,
+                        1.423728813559322,
+                        1.4745762711864407,
+                        1.5254237288135593,
+                        1.576271186440678,
+                        1.6271186440677967,
+                        1.6779661016949152,
+                        1.728813559322034,
+                        1.7796610169491525,
+                        1.8305084745762712,
+                        1.8813559322033899,
+                        1.9322033898305084,
+                        1.9830508474576272,
+                        2.0338983050847457,
+                        2.0847457627118646,
+                        2.1355932203389831,
+                        2.1864406779661016,
+                        2.2372881355932202,
+                        2.2881355932203391,
+                        2.3389830508474576,
+                        2.3898305084745761,
+                        2.4406779661016951,
+                        2.4915254237288136,
+                        2.5423728813559321,
+                        2.593220338983051,
+                        2.6440677966101696,
+                        2.6949152542372881,
+                        2.7457627118644066,
+                        2.7966101694915255,
+                        2.847457627118644,
+                        2.8983050847457625,
+                        2.9491525423728815,
+                        3.0],
+          'iIu': 0,
+          'iIu_max': 3,
+          'loopIe': 5,
+          'loopIi': 5,
+          'runnumber': 45}}
+  
+### Run 46 (run46): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.0], [0.080000000000000002, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.0], [0.080000000000000002, 0.0]],
+          'g_syn_loop': [[0, 1], [0, 0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 46}}
+  
+### Run 47 (run47): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.0], [0.14999999999999999, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.0], [0.14999999999999999, 0.0]],
+          'g_syn_loop': [[0, 1], [0, 0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 47}}
+  
+### Run 52 (run52): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'g_syn_r_step': 0.01, 'runnumber': 52}}
+  
+### Run 55 (run55): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.14999999999999999], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.14999999999999999], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 55}}
+  
+### Run 56 (run56): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_loop': [[0, 1], [0, 0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 56}}
+  
+### Run 57 (run57): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.0], [0.12, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.0], [0.12, 0.0]],
+          'g_syn_loop': [[0, 1], [0, 0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 57}}
+  
+### Run 58 (run58): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ifactor': 1.5,
+          'g_syn_r_step': 0.01,
+          'runnumber': 58}}
+  
+### Run 59 (run59): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ifactor': 0.5,
+          'g_syn_r_step': 0.01,
+          'runnumber': 59}}
+  
+### Run 64 (run64): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'eIspecial': [0,
+                        [0.74054912000000006,
+                         0.77284495865212044,
+                         0.80919354391952081,
+                         0.84912788696194119,
+                         0.892212626991568,
+                         0.93804403127303448,
+                         0.98624999512342026,
+                         1.0364900419122511,
+                         1.0884553230615004,
+                         1.1418686180455866,
+                         1.1964843343913767,
+                         1.2520885076781814,
+                         1.3084988015377614,
+                         1.3655645076543215,
+                         1.4231665457645133,
+                         1.4812174636574347,
+                         1.5396614371746331,
+                         1.5984742702100982,
+                         1.6576633947102697,
+                         1.7172678706740312,
+                         1.7773583861527138,
+                         1.8380372572500971,
+                         1.8994384281224028,
+                         1.961727470978305,
+                         2.0251015860789185,
+                         2.0897896017378095,
+                         2.1560519743209881,
+                         2.2241807882469109,
+                         2.2944997559864815,
+                         2.3673642180630496,
+                         2.4431611430524138,
+                         2.5223091275828171,
+                         2.6052583963349494,
+                         2.6924908020419465,
+                         2.7845198254893924,
+                         2.8818905755153144,
+                         2.9851797890101892,
+                         3.0949958309169427,
+                         3.2119786942309423,
+                         3.3367999999999993]],
+          'g_syn_loop': [[0, 1], [0, 0]],
+          'g_syn_r_step': 0.01,
+          'iIspecial': [0,
+                        [0.40000000000000002,
+                         0.44102564102564107,
+                         0.48205128205128206,
+                         0.52307692307692311,
+                         0.5641025641025641,
+                         0.6051282051282052,
+                         0.64615384615384619,
+                         0.68717948717948718,
+                         0.72820512820512828,
+                         0.76923076923076927,
+                         0.81025641025641026,
+                         0.85128205128205137,
+                         0.89230769230769247,
+                         0.93333333333333335,
+                         0.97435897435897445,
+                         1.0153846153846153,
+                         1.0564102564102564,
+                         1.0974358974358975,
+                         1.1384615384615384,
+                         1.1794871794871795,
+                         1.2205128205128206,
+                         1.2615384615384615,
+                         1.3025641025641028,
+                         1.3435897435897437,
+                         1.3846153846153848,
+                         1.4256410256410255,
+                         1.4666666666666668,
+                         1.5076923076923077,
+                         1.548717948717949,
+                         1.5897435897435899,
+                         1.6307692307692307,
+                         1.6717948717948721,
+                         1.712820512820513,
+                         1.7538461538461538,
+                         1.7948717948717952,
+                         1.835897435897436,
+                         1.8769230769230769,
+                         1.9179487179487182,
+                         1.9589743589743591,
+                         2.0]],
+          'loopIe': [0, 5],
+          'loopIi': [0, 5],
+          'runnumber': 64,
+          'seed': 3}}
+  
+### Run 65 (run65): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.070000000000000007], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.070000000000000007], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 65}}
+  
+### Run 66 (run66): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.080000000000000002], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.080000000000000002], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 66}}
+  
+### Run 67 (run67): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ee_r': [[0.0, 0.25], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.25], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 67}}
+  
+### Run 68 (run68): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 68}}
+  
+### Run 69 (run69): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 69}}
+  
+### Run 70 (run70): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 70}}
+  
+### Run 71 (run71): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'g_syn_ei_r': [[0.0, 0.14999999999999999], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'runnumber': 71}}
+  
+### Run 77 (run77): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1], 'Ttot': 3200, 'runnumber': 77}}
+  
+### Run 78 (run78): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'eIspecial': [0.74054912000000006,
+                        0.76179527364586352,
+                        0.78494546213389027,
+                        0.80985298403322026,
+                        0.8363776036629289,
+                        0.86438555109202697,
+                        0.89374952213946079,
+                        0.92434867837411172,
+                        0.95606864711479589,
+                        0.98880152143026601,
+                        1.0224458601392092,
+                        1.056906687810248,
+                        1.0920954947619406,
+                        1.1279302370627797,
+                        1.164335336531195,
+                        1.2012416807355493,
+                        1.2385866229941427,
+                        1.2763139823752088,
+                        1.3143740436969182,
+                        1.3527235575273757,
+                        1.3913257401846222,
+                        1.4301502737366341,
+                        1.4691733060013203,
+                        1.5083774505465293,
+                        1.5477517866900423,
+                        1.5872918594995773,
+                        1.6269996797927835,
+                        1.6668837241372527,
+                        1.7069589348505056,
+                        1.7472467200000006],
+          'g_syn_ee_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'iIspecial': [0.40000000000000002,
+                        0.42758620689655175,
+                        0.45517241379310347,
+                        0.48275862068965519,
+                        0.51034482758620692,
+                        0.53793103448275859,
+                        0.56551724137931036,
+                        0.59310344827586214,
+                        0.62068965517241381,
+                        0.64827586206896548,
+                        0.67586206896551726,
+                        0.70344827586206893,
+                        0.73103448275862071,
+                        0.75862068965517238,
+                        0.78620689655172415,
+                        0.81379310344827582,
+                        0.84137931034482749,
+                        0.86896551724137927,
+                        0.89655172413793105,
+                        0.92413793103448272,
+                        0.9517241379310345,
+                        0.97931034482758617,
+                        1.0068965517241377,
+                        1.0344827586206895,
+                        1.0620689655172413,
+                        1.0896551724137931,
+                        1.1172413793103448,
+                        1.1448275862068966,
+                        1.1724137931034484,
+                        1.2],
+          'runnumber': 78}}
+  
+### Run 79 (run79): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'delay_reg_e': 10,
+          'delay_reg_i': 10,
+          'runnumber': 79}}
+  
+### Run 80 (run80): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.20000000000000001], [0.0, 0.0]],
+          'runnumber': 80}}
+  
+### Run 81 (run81): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 81}}
+  
+### Run 82 (run82): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'eIspecial': [0.74054912000000006,
+                        0.76179527364586352,
+                        0.78494546213389027,
+                        0.80985298403322026,
+                        0.8363776036629289,
+                        0.86438555109202697,
+                        0.89374952213946079,
+                        0.92434867837411172,
+                        0.95606864711479589,
+                        0.98880152143026601,
+                        1.0224458601392092,
+                        1.056906687810248,
+                        1.0920954947619406,
+                        1.1279302370627797,
+                        1.164335336531195,
+                        1.2012416807355493,
+                        1.2385866229941427,
+                        1.2763139823752088,
+                        1.3143740436969182,
+                        1.3527235575273757,
+                        1.3913257401846222,
+                        1.4301502737366341,
+                        1.4691733060013203,
+                        1.5083774505465293,
+                        1.5477517866900423,
+                        1.5872918594995773,
+                        1.6269996797927835,
+                        1.6668837241372527,
+                        1.7069589348505056,
+                        1.7472467200000006],
+          'g_syn_ee_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'iIspecial': [0.40000000000000002,
+                        0.42758620689655175,
+                        0.45517241379310347,
+                        0.48275862068965519,
+                        0.51034482758620692,
+                        0.53793103448275859,
+                        0.56551724137931036,
+                        0.59310344827586214,
+                        0.62068965517241381,
+                        0.64827586206896548,
+                        0.67586206896551726,
+                        0.70344827586206893,
+                        0.73103448275862071,
+                        0.75862068965517238,
+                        0.78620689655172415,
+                        0.81379310344827582,
+                        0.84137931034482749,
+                        0.86896551724137927,
+                        0.89655172413793105,
+                        0.92413793103448272,
+                        0.9517241379310345,
+                        0.97931034482758617,
+                        1.0068965517241377,
+                        1.0344827586206895,
+                        1.0620689655172413,
+                        1.0896551724137931,
+                        1.1172413793103448,
+                        1.1448275862068966,
+                        1.1724137931034484,
+                        1.2],
+          'runnumber': 82,
+          'seed': 3}}
+  
+### Run 83 (run83): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'eIspecial': [1.0884553230615004,
+                        1.1418686180455866,
+                        1.1964843343913767,
+                        1.2520885076781814,
+                        1.3084988015377614,
+                        1.3655645076543215,
+                        1.4231665457645133,
+                        1.4812174636574347,
+                        1.5396614371746331,
+                        1.5984742702100982,
+                        1.6576633947102697,
+                        1.7172678706740312,
+                        1.7773583861527138,
+                        1.8380372572500971,
+                        1.8994384281224028,
+                        1.961727470978305,
+                        2.0251015860789185,
+                        2.0897896017378095,
+                        2.1560519743209881,
+                        2.2241807882469109,
+                        2.2944997559864815,
+                        2.3673642180630496,
+                        2.4431611430524138,
+                        2.5223091275828171,
+                        2.6052583963349494,
+                        2.6924908020419465,
+                        2.7845198254893924,
+                        2.8818905755153144,
+                        2.9851797890101892,
+                        3.0949958309169427,
+                        3.2119786942309423,
+                        3.3367999999999993],
+          'g_syn_ei_r': [[0.0, 0.029999999999999999], [0.0, 0.0]],
+          'iIspecial': [0.72820512820512828,
+                        0.76923076923076927,
+                        0.81025641025641026,
+                        0.85128205128205137,
+                        0.89230769230769247,
+                        0.93333333333333335,
+                        0.97435897435897445,
+                        1.0153846153846153,
+                        1.0564102564102564,
+                        1.0974358974358975,
+                        1.1384615384615384,
+                        1.1794871794871795,
+                        1.2205128205128206,
+                        1.2615384615384615,
+                        1.3025641025641028,
+                        1.3435897435897437,
+                        1.3846153846153848,
+                        1.4256410256410255,
+                        1.4666666666666668,
+                        1.5076923076923077,
+                        1.548717948717949,
+                        1.5897435897435899,
+                        1.6307692307692307,
+                        1.6717948717948721,
+                        1.712820512820513,
+                        1.7538461538461538,
+                        1.7948717948717952,
+                        1.835897435897436,
+                        1.8769230769230769,
+                        1.9179487179487182,
+                        1.9589743589743591,
+                        2.0],
+          'runnumber': 83}}
+  
+### Run 84 (run84): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ee_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 84}}
+  
+### Run 85 (run85): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'eIspecial': [0.74054912000000006,
+                        0.76179527364586352,
+                        0.78494546213389027,
+                        0.80985298403322026,
+                        0.8363776036629289,
+                        0.86438555109202697,
+                        0.89374952213946079,
+                        0.92434867837411172,
+                        0.95606864711479589,
+                        0.98880152143026601,
+                        1.0224458601392092,
+                        1.056906687810248,
+                        1.0920954947619406,
+                        1.1279302370627797,
+                        1.164335336531195,
+                        1.2012416807355493,
+                        1.2385866229941427,
+                        1.2763139823752088,
+                        1.3143740436969182,
+                        1.3527235575273757,
+                        1.3913257401846222,
+                        1.4301502737366341,
+                        1.4691733060013203,
+                        1.5083774505465293,
+                        1.5477517866900423,
+                        1.5872918594995773,
+                        1.6269996797927835,
+                        1.6668837241372527,
+                        1.7069589348505056,
+                        1.7472467200000006],
+          'g_syn_ee_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'iIspecial': [0.40000000000000002,
+                        0.42758620689655175,
+                        0.45517241379310347,
+                        0.48275862068965519,
+                        0.51034482758620692,
+                        0.53793103448275859,
+                        0.56551724137931036,
+                        0.59310344827586214,
+                        0.62068965517241381,
+                        0.64827586206896548,
+                        0.67586206896551726,
+                        0.70344827586206893,
+                        0.73103448275862071,
+                        0.75862068965517238,
+                        0.78620689655172415,
+                        0.81379310344827582,
+                        0.84137931034482749,
+                        0.86896551724137927,
+                        0.89655172413793105,
+                        0.92413793103448272,
+                        0.9517241379310345,
+                        0.97931034482758617,
+                        1.0068965517241377,
+                        1.0344827586206895,
+                        1.0620689655172413,
+                        1.0896551724137931,
+                        1.1172413793103448,
+                        1.1448275862068966,
+                        1.1724137931034484,
+                        1.2],
+          'runnumber': 85,
+          'seed': 4}}
+  
+### Run 86 (run86): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 5000,
+          'eIspecial': [0.74054912000000006,
+                        0.76179527364586352,
+                        0.78494546213389027,
+                        0.80985298403322026,
+                        0.8363776036629289,
+                        0.86438555109202697,
+                        0.89374952213946079,
+                        0.92434867837411172,
+                        0.95606864711479589,
+                        0.98880152143026601,
+                        1.0224458601392092,
+                        1.056906687810248,
+                        1.0920954947619406,
+                        1.1279302370627797,
+                        1.164335336531195,
+                        1.2012416807355493,
+                        1.2385866229941427,
+                        1.2763139823752088,
+                        1.3143740436969182,
+                        1.3527235575273757,
+                        1.3913257401846222,
+                        1.4301502737366341,
+                        1.4691733060013203,
+                        1.5083774505465293,
+                        1.5477517866900423,
+                        1.5872918594995773,
+                        1.6269996797927835,
+                        1.6668837241372527,
+                        1.7069589348505056,
+                        1.7472467200000006],
+          'g_syn_ee_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.059999999999999998], [0.0, 0.0]],
+          'g_syn_r_step': 0.01,
+          'iIspecial': [0.40000000000000002,
+                        0.42758620689655175,
+                        0.45517241379310347,
+                        0.48275862068965519,
+                        0.51034482758620692,
+                        0.53793103448275859,
+                        0.56551724137931036,
+                        0.59310344827586214,
+                        0.62068965517241381,
+                        0.64827586206896548,
+                        0.67586206896551726,
+                        0.70344827586206893,
+                        0.73103448275862071,
+                        0.75862068965517238,
+                        0.78620689655172415,
+                        0.81379310344827582,
+                        0.84137931034482749,
+                        0.86896551724137927,
+                        0.89655172413793105,
+                        0.92413793103448272,
+                        0.9517241379310345,
+                        0.97931034482758617,
+                        1.0068965517241377,
+                        1.0344827586206895,
+                        1.0620689655172413,
+                        1.0896551724137931,
+                        1.1172413793103448,
+                        1.1448275862068966,
+                        1.1724137931034484,
+                        1.2],
+          'runnumber': 86}}
+  
+### Run 87 (run87): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 87}}
+  
+### Run 89 (run89): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 89}}
+  
+### Run 90 (run90): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 90}}
+  
+### Run 91 (run91): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'runnumber': 91}}
+  
+### Run 92 (run92): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ee_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 92}}
+  
+### Run 93 (run93): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ee_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 93}}
+  
+### Run 94 (run94): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.087499999999999994], [0.0, 0.0]],
+          'runnumber': 94}}
+  
+### Run 95 (run95): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 24,
+          'runnumber': 95,
+          'seed': 5}}
+  
+### Run 96 (run96): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 25,
+          'runnumber': 96,
+          'seed': 6}}
+  
+### Run 97 (run97): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.125], [0.0, 0.0]],
+          'runnumber': 97}}
+  
+### Run 98 (run98): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 28,
+          'runnumber': 98,
+          'seed': 9}}
+  
+### Run 99 (run99): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 29,
+          'runnumber': 99,
+          'seed': 10}}
+  
+### Run 100 (run100): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 29,
+          'runnumber': 100,
+          'seed': 10}}
+  
+### Run 101 (run101): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 29,
+          'runnumber': 101,
+          'seed': 10}}
+  
+### Run 102 (run102): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.125], [0.0, 0.0]],
+          'noiseseed': 30,
+          'runnumber': 102,
+          'seed': 11}}
+  
+### Run 104 (run104): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 104,
+          'seed': 5}}
+  
+### Run 105 (run105): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'runnumber': 105,
+          'seed': 5}}
+  
+### Run 106 (run106): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 106}}
+  
+### Run 107 (run107): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 107, 'seed': 12}}
+  
+### Run 108 (run108): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 108, 'seed': 15}}
+  
+### Run 109 (run109): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': 0,
+          'Ieper': 0,
+          'Iepulse': 0,
+          'Ieramp': 0,
+          'Iestep': 0,
+          'Iinoise': 0,
+          'Iiper': 0,
+          'Iipulse': 0,
+          'Iiramp': 0,
+          'Iistep': 0,
+          'Nregions': 1,
+          'eIu': 0.6,
+          'eIu_max': 3.8,
+          'g_syn_loop': 0,
+          'iIu': 0.4,
+          'iIu_max': 2,
+          'loopIe': 1,
+          'loopIi': 1,
+          'runnumber': 109}}
+  
+### Run 112 (run112): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noisetype': 3,
+          'runnumber': 112}}
+  
+### Run 113 (run113): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noisetype': 3,
+          'runnumber': 113}}
+  
+### Run 114 (run114): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noisetype': 3,
+          'runnumber': 114}}
+  
+### Run 115 (run115): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 22,
+          'noisetype': 3,
+          'runnumber': 115,
+          'seed': 3}}
+  
+### Run 116 (run116): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 22,
+          'noisetype': 3,
+          'runnumber': 116,
+          'seed': 3}}
+  
+### Run 117 (run117): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 117,
+          'seed': 17}}
+  
+### Run 118 (run118): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 118,
+          'seed': 17}}
+  
+### Run 122 (run122): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 122,
+          'seed': 17}}
+  
+### Run 123 (run123): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'noisetype': 1,
+          'runnumber': 123,
+          'seed': 17}}
+  
+### Run 124 (run124): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseamp': 1,
+          'noiseseed': 36,
+          'runnumber': 124,
+          'seed': 17}}
+  
+### Run 125 (run125): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 45,
+          'runnumber': 125,
+          'seed': 26}}
+  
+### Run 126 (run126): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 45,
+          'runnumber': 126,
+          'seed': 26}}
+  
+### Run 127 (run127): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 127}}
+  
+### Run 128 (run128): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 45,
+          'runnumber': 128,
+          'seed': 26}}
+  
+### Run 129 (run129): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 45,
+          'runnumber': 129,
+          'seed': 26}}
+  
+### Run 130 (run130): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 130}}
+  
+### Run 131 (run131): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 131, 'seed': 26}}
+  
+### Run 132 (run132): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 132,
+          'seed': 27}}
+  
+### Run 133 (run133): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 133,
+          'seed': 27}}
+  
+### Run 134 (run134): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 80,
+          'runnumber': 134,
+          'seed': 61}}
+  
+### Run 135 (run135): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 135,
+          'seed': 61}}
+  
+### Run 136 (run136): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 136,
+          'seed': 61}}
+  
+### Run 138 (run138): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 138,
+          'seed': 61}}
+  
+### Run 139 (run139): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'noiseseed': 80,
+          'runnumber': 139,
+          'seed': 61}}
+  
+### Run 140 (run140): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseseed': 46,
+          'runnumber': 140,
+          'seed': 27}}
+  
+### Run 141 (run141): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 141,
+          'seed': 27}}
+  
+### Run 142 (run142): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'noiseseed': 46,
+          'runnumber': 142,
+          'seed': 27}}
+  
+### Run 143 (run143): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [0, 1],
+          'Ttot': 3200,
+          'noiseseed': 73,
+          'runnumber': 143,
+          'seed': 54}}
+  
+### Run 145 (run145): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 145, 'seed': 26}}
+  
+### Run 146 (run146): ###
+Difference to reference_settings:
+{'para': {}, 'sett': {'Ttot': 2000, 'runnumber': 146, 'seed': 26}}
+  
+### Run 147 (run147): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ee_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 147,
+          'seed': 26}}
+  
+### Run 149 (run149): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ee_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 149,
+          'seed': 26}}
+  
+### Run 150 (run150): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ee_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 150,
+          'seed': 26}}
+  
+### Run 151 (run151): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 151,
+          'seed': 15}}
+  
+### Run 152 (run152): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.050000000000000003], [0.0, 0.0]],
+          'runnumber': 152,
+          'seed': 15}}
+  
+### Run 153 (run153): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.074999999999999997], [0.0, 0.0]],
+          'runnumber': 153,
+          'seed': 15}}
+  
+### Run 154 (run154): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.025000000000000001], [0.0, 0.0]],
+          'runnumber': 154,
+          'seed': 15}}
+  
+### Run 155 (run155): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ttot': 2000,
+          'g_syn_ei_r': [[0.0, 0.10000000000000001], [0.0, 0.0]],
+          'runnumber': 155,
+          'seed': 15}}
+  
+### Run 156 (run156): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 73,
+          'noisetype': 1,
+          'runnumber': 156,
+          'seed': 54}}
+  
+### Run 157 (run157): ###
+Difference to reference_settings:
+{'para': {},
+ 'sett': {'Ienoise': [1, 1],
+          'Ttot': 3200,
+          'noiseamp': 1,
+          'noiseseed': 78,
+          'noisetype': 1,
+          'runnumber': 157,
+          'seed': 59}}
+  
